@@ -28,12 +28,6 @@ namespace Vitality
 		}
 
 		[Test]
-		public void Repl()
-		{
-			app.Repl();
-		}
-
-		[Test]
 		public void IncorrectLoginTest()
 		{
 			app.Tap("launcher_disclaimer_get_start");
