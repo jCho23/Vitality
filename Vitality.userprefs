@@ -3,8 +3,23 @@
     <Files>
       <File FileName="Vitality/AppInitializer.cs" Line="35" Column="9" />
       <File FileName="Vitality/packages.config" Line="1" Column="1" />
-      <File FileName="Vitality/Tests.cs" Line="95" Column="34" />
+      <File FileName="Vitality/Tests.cs" Line="17" Column="3" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Vitality" expanded="True">
+            <Node name="Vitality" expanded="True">
+              <Node name="Vitality" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
