@@ -1,7 +1,0 @@
-/Users/junecho/Projects/Vitality/Vitality/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/junecho/Projects/Vitality/Vitality/bin/Debug/Vitality.dll.mdb
-/Users/junecho/Projects/Vitality/Vitality/bin/Debug/Vitality.dll
-/Users/junecho/Projects/Vitality/Vitality/obj/Debug/Vitality.dll
-/Users/junecho/Projects/Vitality/Vitality/obj/Debug/Vitality.dll.mdb
-/Users/junecho/Projects/Vitality/Vitality/bin/Debug/nunit.framework.dll
-/Users/junecho/Projects/Vitality/Vitality/bin/Debug/Xamarin.UITest.dll
